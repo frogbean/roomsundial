@@ -1,0 +1,23 @@
+{
+  "name": "roomsundial",
+  "version": "1.0.0",
+  "description": "Turn a room into a sun dial with RGB lights",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frogbean/roomsundial.git"
+  },
+  "author": "frogbean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frogbean/roomsundial/issues"
+  },
+  "homepage": "https://github.com/frogbean/roomsundial#readme",
+  "dependencies": {
+    "lights": "github:frogbean/lights",
+    "sunposrgb": "github:frogbean/SunPosRGB"
+  }
+}
